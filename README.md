@@ -11,7 +11,7 @@ This is an introductory document for my class, Human Language Technologies, in w
 
 ### DESCRIPTION
 The two files to run this program are located here: 
-[Data Processor](dataprocessor.py) and [Data File](data.csv)
+[Data Processor](dataprocessor/dataprocessor.py) and [Data File](data.csv)
 
 A simple program in Python to take an input file using sysarg and correct errors in formatting. It will prompt the user to fix the mistakes if any, then adds these values into a dictionary. 
 
