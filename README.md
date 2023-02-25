@@ -49,3 +49,10 @@ Once again, Python has shown its usefulness in filtering through a large amount 
 
 ### WHAT I LEARNED
 Being my second Python program I wrote. I learned much more about the benefits of NLTK to process large amounts of text and retrieve what you need. As I continue to make more Python programs, NLTK will be a valuable tool as I make more. 
+
+## [WordNet](wordnet.ipynb)
+### DESCRIPTION
+Simply a study on WordNet exploring its uses and whatnot. 
+
+### WHAT I LEARNED
+Like my intro to NLTK with the [guessing game](guessinggame.py), I learned a lot more about processing text and how to make use of the many tools within WordNet. Continuing my studies in Python and its uses, I can turn it into a powerful tool for automating collecting and using of large amounts of data.
