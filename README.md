@@ -56,3 +56,13 @@ Simply a study on WordNet exploring its uses and whatnot.
 
 ### WHAT I LEARNED
 Like my intro to NLTK with the [guessing game](guessinggame/guessinggame.py), I learned a lot more about processing text and how to make use of the many tools within WordNet. Continuing my studies in Python and its uses, I can turn it into a powerful tool for automating collecting and using of large amounts of data.
+
+## [N-grams](n-grams)
+### DESCRIPTION
+Contains two python files as well as a folder for the data and a narrative about n-grams. Essentially determines the probability of a certain language given some sample text. It creates a file with these guesses that are then compared to a solution file. An accuracy indicator is outputted to the console afterwards. 
+
+### HOW TO RUN
+Download all the files and simply run the the [process.py](n-grams/process.py) file to process the given data within the [data](n-grams/data) folder. Then run the [runner.py](n-grams/runner.py) file after to determine accuracy of the probabilities. 
+
+### WHAT I LEARNED
+I would say this is my first real run with training a language model in Python. N-grams appear to be quite useful from what I can see so far and I am looking forward to implementing them more as I continue to code. 
