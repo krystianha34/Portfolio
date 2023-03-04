@@ -66,3 +66,10 @@ Download all the files and simply run the the [process.py](n-grams/process.py) f
 
 ### WHAT I LEARNED
 I would say this is my first real run with training a language model in Python. N-grams appear to be quite useful from what I can see so far and I am looking forward to implementing them more as I continue to code. 
+
+## [Sentence Parsing](sentenceparsing.png)
+### DESCRIPTION
+A .pdf file of written parses for a given sentence with some brief descriptions to aid in understanding.
+
+### PROS / CONS OF EACH PARSE TYPE
+I want to say the PSG parse tree is my preferred option when it comes to parsing sentences. I prefer the tree and it is much more readable than the other two in my opinion. Although, I feel it is lacking when it comes to accurately describing the words and their meanings. The dependency parse looks the most detailed and comes with a large number of definitions for words and how they influence others. But I am not a fan of the organization and it can feel slightly cryptic trying to read everything. Finally, SRL parse trees are about in the middle. They are more readable than a dependency parse, but not as much as a PSG parse tree. The arguments are easy to understand and see how they influence other words. 
