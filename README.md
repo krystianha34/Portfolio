@@ -67,7 +67,7 @@ Download all the files and simply run the the [process.py](n-grams/process.py) f
 ### WHAT I LEARNED
 I would say this is my first real run with training a language model in Python. N-grams appear to be quite useful from what I can see so far and I am looking forward to implementing them more as I continue to code. 
 
-## [Sentence Parsing](sentenceparsing.png)
+## [Sentence Parsing](sentenceparsing.pdf)
 ### DESCRIPTION
 A .pdf file of written parses for a given sentence with some brief descriptions to aid in understanding.
 
