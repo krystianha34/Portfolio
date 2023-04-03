@@ -84,3 +84,10 @@ This is a pretty basic web crawler. It begins with a given url and crawls throug
 Download the main file and simply run the the [webcrawler.py](webcrawler/webcrawler.py) file to generate a knowledge base. 
 
 NOTE: Be aware that serveral text files are created when running this program. 
+
+## [Text Classification](textclassification.ipynb)
+### DESCRIPTION
+A study on text classification through the use of Naive Bayes, Logistic Regression, and Neural Networks. 
+
+### WHAT I LEARNED
+Each of the 3 machine learning techniques had their own strong points, but some certainly outshine others. Naive Bayes is simpler and tends to produce a lower accuracy compared to the other two. Logistic Regression is a little more complicated and produces a higher accuracy than Naive Bayes. And finally, Neural Networks are capable of producing the highest accuracy. But they are dependent on having a large amount of nodes to obtain that accuracy. If I were working with small data sets, I'd consider using Naive Bayes or Logistic Regression. And if I were working with a large data set, then neural networks would be my ML of choice. 
