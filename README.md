@@ -91,3 +91,7 @@ A study on text classification through the use of Naive Bayes, Logistic Regressi
 
 ### WHAT I LEARNED
 Each of the 3 machine learning techniques had their own strong points, but some certainly outshine others. Naive Bayes is simpler and tends to produce a lower accuracy compared to the other two. Logistic Regression is a little more complicated and produces a higher accuracy than Naive Bayes. And finally, Neural Networks are capable of producing the highest accuracy. But they are dependent on having a large amount of nodes to obtain that accuracy. If I were working with small data sets, I'd consider using Naive Bayes or Logistic Regression. And if I were working with a large data set, then neural networks would be my ML of choice. 
+
+## [ACL Paper Summary](portfolio_acl_paper.pdf)
+### Description
+A summary of an ACL paper that I read for my class. It covers the idea that prompt-based models may be clueless as they rely more on superficial cues within datasets and do not perform well with generalization. 
