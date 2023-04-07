@@ -95,3 +95,5 @@ Each of the 3 machine learning techniques had their own strong points, but some 
 ## [ACL Paper Summary](portfolio_acl_paper.pdf)
 ### Description
 A summary of an ACL paper that I read for my class. It covers the idea that prompt-based models may be clueless as they rely more on superficial cues within datasets and do not perform well with generalization. 
+
+Link to the paper: https://aclanthology.org/2022.acl-long.166/
