@@ -97,3 +97,10 @@ Each of the 3 machine learning techniques had their own strong points, but some 
 A summary of an ACL paper that I read for my class. It covers the idea that prompt-based models may be clueless as they rely more on superficial cues within datasets and do not perform well with generalization. 
 
 Link to the paper: https://aclanthology.org/2022.acl-long.166/
+
+## [Text Classification 2](textclassification2.ipynb)
+### DESCRIPTION
+Another study on text classification using deep learning techniques such as a sequential approach, RNN, and an embedded approach.
+
+### WHAT I LEARNED
+From the three different methods tested, those being a sequential model, RNN, and an embedded approach, the sequential model scored the highest with RNN behind it and the embedded approach at the lowest. The sequential model did not take too much time to compile and it gave a good accuracy over the 10 epochs tested. RNN took about an hour to compile which I believe is due to the amount of layers put on the model. However, I do not believe its accuracy would be as high as a result. And finally, the embedded approach did not provide a good accuracy compared to the other two. So for me, the sequential model would be the preffered option when it comes to text classification.
