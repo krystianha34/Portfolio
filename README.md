@@ -107,5 +107,5 @@ From the three different methods tested, those being a sequential model, RNN, an
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## SUMMARY
+# SUMMARY
 Over the course of the semester, I learned quite a lot about Natural Language Processing and how it is used in plenty of modern programs today. From building simple guessing games all the way up to a chatbot, there was a lot covered. For the amount of material covered, I feel like the class was well paced and taught by example and not just tests. By doing these assignments, I can fully delve in to the kind of NLP problems that are being faced today. It is certainly an exciting field of study and I am interested to see how it develops in the future. I do not have any plans for future personal projects at the moment as I have other things to take care of in the meantime. As the field grows and changes, I will need to stay in touch with the field in order to not fall behind since NLP is looking to be quite impactful in the future. As I currently have a place of employment, I do not have immediate interest in NLP related employment opportunites. But I will definitely keep them in mind for the future.  
